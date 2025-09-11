@@ -173,8 +173,8 @@
     "menu.selectionBorder": "#90a0b5",
     "menu.separatorBackground": "#252530",
 
-    "input.background": "#252530",
-    "input.border": "#90a0b5",
+    "input.background": "#1a1c20",
+    "input.border": "#525763",
     "input.foreground": "#cdcdcd",
     "input.placeholderForeground": "#606079",
     "inputOption.activeBackground": "#333738",
@@ -191,8 +191,8 @@
     "inputValidation.warningBorder": "#f3be7c",
     "inputValidation.warningForeground": "#cdcdcd",
 
-    "dropdown.background": "#252530",
-    "dropdown.border": "#90a0b5",
+    "dropdown.background": "#1a1c20",
+    "dropdown.border": "#525763",
     "dropdown.foreground": "#cdcdcd",
     "dropdown.listBackground": "#1a1c20",
 
