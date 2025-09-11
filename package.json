@@ -1,0 +1,49 @@
+{
+  "name": "vague-theme",
+  "displayName": "Vague Theme",
+  "description": "A port of vague.nvim theme",
+  "version": "1.0.0",
+  "publisher": "agnibha-chatterjee",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes",
+    "Dark Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "vague",
+    "neovim",
+    "port"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vague",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vague.json"
+      },
+      {
+        "label": "Vague Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vague-dimmed.json"
+      },
+      {
+        "label": "Vague Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vague-soft.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agnibha-chatterjee/vague-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/agnibha-chatterjee/vague-theme/issues"
+  },
+  "license": "MIT"
+}
