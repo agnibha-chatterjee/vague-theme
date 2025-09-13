@@ -211,9 +211,9 @@
     "badge.foreground": "#1a1c20",
 
     "scrollbar.shadow": "#1a1c20",
-    "scrollbarSlider.activeBackground": "#606079",
-    "scrollbarSlider.background": "#252530",
-    "scrollbarSlider.hoverBackground": "#333738",
+    "scrollbarSlider.activeBackground": "#90a0b580",
+    "scrollbarSlider.background": "#60607980",
+    "scrollbarSlider.hoverBackground": "#90a0b580",
 
     "progressBar.background": "#6e94b2",
 
