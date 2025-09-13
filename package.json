@@ -2,7 +2,7 @@
   "name": "vague-theme",
   "displayName": "Vague Theme",
   "description": "A port of vague.nvim theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "agnibha-chatterjee",
   "icon": "icon.png",
   "engines": {
@@ -22,9 +22,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Old World",
+        "label": "Vague",
         "uiTheme": "vs-dark",
-        "path": "./themes/oldworld.json"
+        "path": "./themes/vague.json"
       },
       {
         "label": "Vague Dimmed",
