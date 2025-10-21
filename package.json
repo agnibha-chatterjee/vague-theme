@@ -2,7 +2,7 @@
   "name": "vague-theme",
   "displayName": "Vague Theme",
   "description": "A port of vague.nvim theme",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "agnibha-chatterjee",
   "icon": "icon.png",
   "engines": {
@@ -35,6 +35,11 @@
         "label": "Vague Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/vague-soft.json"
+      },
+      {
+        "label": "Vague One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vague-one-dark.json"
       }
     ]
   },
